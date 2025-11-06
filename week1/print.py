@@ -11,4 +11,7 @@ print ("hello world")
 
 print ("hello world", "why me", "isagi")
 
+# also printing multiple types of objects in the same line is possible 
+
+print ("hello world", 22, 31.0 , True)
 
