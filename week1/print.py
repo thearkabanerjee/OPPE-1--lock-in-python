@@ -15,3 +15,13 @@ print ("hello world", "why me", "isagi")
 
 print ("hello world", 22, 31.0 , True)
 
+
+
+
+
+# f print statment 
+
+
+a = "hello"
+
+print (f"he is a {a} guy")
