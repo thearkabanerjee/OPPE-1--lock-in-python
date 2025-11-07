@@ -11,3 +11,5 @@ print ("hello", name, "how is the weather in", location, "?")
 
 
 print (f"hello {name}, how is the weather in {location} ?")
+
+# this is how you use f strings
