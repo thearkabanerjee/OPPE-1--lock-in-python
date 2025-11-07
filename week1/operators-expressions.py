@@ -35,3 +35,20 @@ print (list(intersection_of_lists)) # list version of the thing
 l4 = set(l1) ^ set(l2)
 
 print (l4)
+
+
+
+
+
+# l1 = l1.append(5)
+
+# print (l1)
+
+
+list1 = [2, 3, 4, 5, 6]
+
+list1.append(12)
+
+# append is used to add a new character to the old list
+
+print (list1)
