@@ -1,9 +1,13 @@
 # operators for python
 
-# union of 2 lists
+# adding of 2 lists
 
 l1 = [1, 2, 3, 4]
-l2 = [5, 6, 7, 8]
+l2 = [4, 5, 6, 7, 8]
 
-l3 = l1 + l2
+l3 = l1 + l2 # simple adding it is not union. in this example the value of 4 is taken twice
+
+
 print (l3)
+
+# union - -the common 
