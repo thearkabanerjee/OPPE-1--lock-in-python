@@ -10,6 +10,16 @@ l3 = l1 + l2 # simple adding it is not union. in this example the value of 4 is 
 
 print (l3)
 
+# union of the lists (sets)
+
+set_l1 = set (l1)
+set_l2 = set (l2)
+
+union_of_l1_l2 = set_l1 | set_l2
+
+print (union_of_l1_l2) # that is the set version 
+
+print (list (union_of_l1_l2)) # that is the list of the set version []
 
 
 # union - the common ones (symmetric difference operator)
