@@ -50,9 +50,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -938.5637618415902,
-			"y": 3658.4710180579423,
-			"lastActivityTimestamp": 1762523484222,
+			"x": -1023.0036325840897,
+			"y": 3888.877936964717,
+			"lastActivityTimestamp": 1762524075208,
 			"meta": {}
 		},
 		{
@@ -73,7 +73,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 932.5,
-				"h": 635.8333129882812
+				"h": 375
 			},
 			"insets": [
 				false,
@@ -106,7 +106,7 @@
 			"selectedShapeIds": [
 				"shape:V3bRo7IjsnP8nLWFMbEe9"
 			],
-			"hoveredShapeId": "shape:V3bRo7IjsnP8nLWFMbEe9",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -116,8 +116,8 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 1734.8705817760604,
-			"y": -3201.3329840706906,
+			"x": 1593.5659033849754,
+			"y": -3422.3094492141918,
 			"z": 0.554357655475823,
 			"meta": {},
 			"id": "camera:page:page",
@@ -197,6 +197,23 @@
 												{
 													"type": "text",
 													"text": "list operations"
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "listItem",
+									"content": [
+										{
+											"type": "paragraph",
+											"attrs": {
+												"dir": "auto"
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "operators"
 												}
 											]
 										}
