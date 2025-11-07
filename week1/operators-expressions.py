@@ -10,4 +10,10 @@ l3 = l1 + l2 # simple adding it is not union. in this example the value of 4 is 
 
 print (l3)
 
-# union - -the common 
+
+
+# union - the common ones (symmetric difference operator)
+
+l4 = set(l1) ^ set(l2)
+
+print (l4)
