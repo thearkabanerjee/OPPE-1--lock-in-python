@@ -52,3 +52,10 @@ list1.append(12)
 # append is used to add a new character to the old list
 
 print (list1)
+
+
+# ------------ operators and expressions 2
+
+
+print (not(True))
+print (not False)
