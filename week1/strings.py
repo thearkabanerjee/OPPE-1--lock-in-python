@@ -24,5 +24,5 @@ element_of_random_string= random_string[1] # displays a
 
 print (element_of_random_string)
 
-slicing_of_the_string = random_string [1:3]
+slicing_of_the_string = random_string [1:3] # stores the value as an , also the last character is not printed 
 print (slicing_of_the_string)
