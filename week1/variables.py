@@ -20,4 +20,4 @@ print ("enter a number: ")
 
 n = int(input())
 
-print ("the value of n is:",n)
+print ("the value of n is:", n)
