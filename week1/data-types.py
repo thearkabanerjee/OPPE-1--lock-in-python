@@ -15,3 +15,10 @@ print (type(l))
 
 
 # data types 2
+
+
+a = 0 
+
+b = bool (a)
+
+print (b)
