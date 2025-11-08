@@ -52,3 +52,14 @@ print (output2)
 output3 = (f'{word3} {n1}')
 print (output3)
 
+output4 = (str('-') * 50)
+print (output4)
+
+output5 = (str('-')* n2)
+print (output5)
+
+output6 = (str(n1) * n2)
+print (output6)
+
+are_all_words_equal = (word1 == word2 == word3)
+print (are_all_words_equal)
