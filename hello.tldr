@@ -178,9 +178,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -918.9057045173745,
-			"y": 3777.271389099645,
-			"lastActivityTimestamp": 1762601592564,
+			"x": -274.87093338567763,
+			"y": 3476.946655379097,
+			"lastActivityTimestamp": 1762602504297,
 			"meta": {}
 		},
 		{
@@ -218,7 +218,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 2,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": false,
+			"isHoveringCanvas": true,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -229,12 +229,12 @@
 			"typeName": "instance"
 		},
 		{
-			"editingShapeId": "shape:V3bRo7IjsnP8nLWFMbEe9",
+			"editingShapeId": "shape:nVuydYNFoWttlzYyfduFe",
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:V3bRo7IjsnP8nLWFMbEe9"
+				"shape:nVuydYNFoWttlzYyfduFe"
 			],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:nVuydYNFoWttlzYyfduFe",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -244,12 +244,129 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 1533.4994545173745,
-			"y": -3410.779201599645,
-			"z": 1,
+			"x": 1180.15261841401,
+			"y": -3159.6974985019115,
+			"z": 0.6241151338241393,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": -581.5624820456545,
+			"y": 3324.1371933067853,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:nVuydYNFoWttlzYyfduFe",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 579.765625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "escape characters are these:"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\\t -> for tab "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\\n -> for next line"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "\\ -> for using the same ' or \" but not changing"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "a2L2pEqV",
+			"typeName": "shape"
 		}
 	]
 }
