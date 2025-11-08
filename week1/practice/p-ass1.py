@@ -28,6 +28,8 @@
 # hrs = ... # int: hint: think about floor division operator
 # mins = ... # int
 
+# NUMBERS (ARITHMETIC)
+
 # Sample inputs (# note: The values given in the prefix code(grey) will be changed by the autograder according to the testcase while running them.
 a = 5
 b = 6
