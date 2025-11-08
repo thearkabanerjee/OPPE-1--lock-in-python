@@ -28,3 +28,20 @@
 # hrs = ... # int: hint: think about floor division operator
 # mins = ... # int
 
+# Sample inputs (# note: The values given in the prefix code(grey) will be changed by the autograder according to the testcase while running them.
+a = 5
+b = 6
+price, discount_percent = 80, 5.75
+total_mins = 470
+# <eoi>
+
+output1 = int (a+b)
+output2 = 2* output1
+output3 = abs(a-b)
+output4 = abs(output1 - (a*b))
+
+
+# discounted_price = 
+
+# rounded_discounted_price = 
+
