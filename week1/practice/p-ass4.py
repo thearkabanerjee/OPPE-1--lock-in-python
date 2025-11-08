@@ -63,3 +63,16 @@ print (output6)
 
 are_all_words_equal = (word1 == word2 == word3)
 print (are_all_words_equal)
+
+is_word1_comes_before_other_two = (word1 < word2 and word1 < word3 )
+print (is_word1_comes_before_other_two)
+
+has_h =  ('h' in word1)
+print (has_h)
+
+ends_with_a = (word1[-1] == 'a' or word1[-1] == 'A')
+print (ends_with_a)
+
+
+has_the_word_python = ('python' in sentence)
+print (has_the_word_python)
