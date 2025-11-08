@@ -35,3 +35,10 @@ print ("it's a beautiful day")
 print ('we are from "iit" madras')
 
 
+# multi line string storing:
+
+new_variable = '''hello arka 
+    this is customer service and 
+    we had some money to return'''
+
+# some muliline string
