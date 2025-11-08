@@ -31,3 +31,15 @@
 
 # has_the_word_python = ... # bool: True if the sentence has the word python
 
+# sample code 
+
+# Sample inputs (# note: The values given in the prefix code(grey) will be changed by the autograder according to the testcase while running them.
+word1 = "Wingardium" # str
+word2 = "Leviyosa" # str
+word3 = "Silver" # str
+sentence = "Learning python is fun"
+n1 = 6 # int
+n2 = 4 # int
+# <eoi>
+
+
