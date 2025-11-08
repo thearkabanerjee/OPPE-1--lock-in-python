@@ -43,3 +43,8 @@ n2 = 4 # int
 # <eoi>
 
 
+output1 = (word1 +' ' + word2)
+print (output1)
+
+output2 = word1[0:4] +'-' + word2[-4:]
+print (output2)
