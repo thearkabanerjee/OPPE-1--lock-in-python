@@ -42,3 +42,8 @@ new_variable = '''hello arka
     we had some money to return'''
 
 # some muliline string
+
+
+hello = '''hello arka banerje i am just from somewhere'''
+
+print (hello)
