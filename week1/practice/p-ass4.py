@@ -75,4 +75,4 @@ print (ends_with_a)
 
 
 has_the_word_python = ('python' in sentence)
-print (has_the_word_python)
+print ('the word python is there:', has_the_word_python)
