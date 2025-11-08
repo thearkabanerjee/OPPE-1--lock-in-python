@@ -5,7 +5,7 @@
 
 # Problem Type: Input variable - Output Variable, Hidden suffix for evaluation
 
-
+# NUMBERS (RELATIONAL AND LOGICAL)
 
 # Sample inputs (# note: The values given in the prefix code(grey) will be changed by the autograder according to the testcase while running them.
 a = 5
