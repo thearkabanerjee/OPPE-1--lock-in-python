@@ -24,11 +24,11 @@ output1 = s[2] # str: get the third character of s
 
 output2 = s[-4] # str: get the fourth last character of s
 
-output3 = ... # str: get the first 3 characters of s
+output3 = s[0:3] # str: get the first 3 characters of s
 
-output4 = ... # str: get every second character of s
+output4 = s[::2] # str: get every second character of s
 
-output5 = ... # str: get the last 3 characters of s
+output5 = s[-3:] # str: get the last 3 characters of s
 
 output6 = ... # str: get the reverse of s
 
