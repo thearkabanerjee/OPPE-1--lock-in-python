@@ -48,3 +48,7 @@ print (output1)
 
 output2 = word1[0:4] +'-' + word2[-4:]
 print (output2)
+
+output3 = (f'{word3} {n1}')
+print (output3)
+
