@@ -30,10 +30,10 @@ output4 = s[::2] # str: get every second character of s
 
 output5 = s[-3:] # str: get the last 3 characters of s
 
-output6 = ... # str: get the reverse of s
+output6 = s[::-1] # str: get the reverse of s
 
-course_term = ... # int: get the term of the year as number from course_code
-course_year = ... # int: get the year as two digit number from course_code
+course_term =  course_code[3] # int: get the term of the year as number from course_code
+course_year = course_code[0:2] # int: get the year as two digit number from course_code
 
 
 print (output1 , output2, output3, output4, output5, output6,course_term, course_year)
