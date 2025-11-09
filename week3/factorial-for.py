@@ -64,7 +64,7 @@
 
 
 
-a = int(input ())
+# a = int(input ())
 
 # a_new = a. split(' ')
 # print(a_new)
@@ -87,6 +87,40 @@ a = int(input ())
 # print (l)
 
 
-import this as this
+# import this as this
 
-print (this)
+# print (this)
+
+
+# def expand_sum_of_products(expr: str) -> str:
+#     '''
+#     Given a string expression of the form "(a+b)(c+d)", expand it into
+#     a sum of products string "a*c + a*d + b*c + b*d".
+
+#     Examples:
+#     >>> expand_sum_of_products("(a+b)(c+d)")
+#     "a*c + a*d + b*c + b*d"
+#     >>> expand_sum_of_products("(x+y)(z+w)")
+#     "x*z + x*w + y*z + y*w"
+#     >>> expand_sum_of_products("(1+5)(10+12)")
+#     "1*10 + 1*12 + 5*10 + 5*12"
+
+#     Args:
+#         expr (str): A string representation of a polynomial expression.
+
+#     Returns:
+#         str: A formatted string with expanded sum of products.
+#     '''
+    
+
+#     new-list = list(expr)
+#     return (expr[0])
+    
+
+expr = '(a+b)(c+d)'
+
+new_expr = expr.strip ('()')
+
+print (new_expr)
+
+print (f"{new_expr[0]}*{new_expr[5]} + {new_expr[0]}*{new_expr[7]} + {new_expr[2]}*{new_expr[5]} + {new_expr[2]}*{new_expr[7]}")
